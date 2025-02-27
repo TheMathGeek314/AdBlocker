@@ -8,7 +8,7 @@ using HutongGames.PlayMaker;
 namespace AdBlocker {
     public class AdBlocker: Mod, ITogglableMod {
         new public string GetName() => "AdBlocker";
-        public override string GetVersion() => "1.0.0.0";
+        public override string GetVersion() => "1.0.0.1";
 
         public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects) {
             On.PlayMakerFSM.OnEnable += editFSM;
