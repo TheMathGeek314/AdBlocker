@@ -8,11 +8,11 @@
     <!--<DocumentationFile>$(OutputPath)/$(AssemblyTitle).xml</DocumentationFile>-->
   </PropertyGroup>
   <PropertyGroup>
-    <RootNamespace>Ad_Blocker</RootNamespace>
-    <AssemblyName>Ad_Blocker</AssemblyName>
+    <RootNamespace>AdBlocker</RootNamespace>
+    <AssemblyName>AdBlocker</AssemblyName>
     <TargetFramework>net472</TargetFramework>
-    <AssemblyTitle>Ad_Blocker</AssemblyTitle>
-    <Product>Ad_Blocker</Product>
+    <AssemblyTitle>AdBlocker</AssemblyTitle>
+    <Product>AdBlocker</Product>
     <Description>A Hollow Knight Mod</Description>
     <Copyright>Copyright ©  2024</Copyright>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
